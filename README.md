@@ -1,1 +1,2 @@
-# Stock_Price_Prediction_using_ML_Python
+# Stock Price Prediction using Machine Learning
+## Introduction
